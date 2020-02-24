@@ -1,2 +1,2 @@
-# Intrusion-Detection-System
-Created in COMP 5970
+# CyberSecurityProj2_ids
+ID detection scripts
